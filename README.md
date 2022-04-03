@@ -1,4 +1,23 @@
-### Hi there 👋
+
+### Привет👋
+Я  **Елена Ярош**, backend-разработчик на python
+
+**e-mail**: helen.yarosh82@gmail.com
+
+### Стек 
+Python, SQL, PostgreSQL, PyTest, Django Framework, Asyncio, Flask, Docker, Docker-compose, Celery.
+
+
+### Реализованные проекты
+- [API сервис заказа товаров для розничных сетей](https://github.com/HelenYar/final_diplom)
+
+- [VKinder (VK-бот для знакомств)](https://github.com/HelenYar/diplom_vkinder)
+
+- [Резервное копирование](https://github.com/HelenYar/diplom_vk_yadisk)
+
+Сертификаты завершенных курсов профессиональной переподготовки ООО «ЦОО Нетология-групп» 
+по специальности Python-разработчик https://github.com/HelenYar/certificates
+
 
 <!--
 **HelenYar/HelenYar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
