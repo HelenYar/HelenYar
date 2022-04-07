@@ -5,7 +5,7 @@
 **e-mail**: helen.yarosh82@gmail.com
 
 ### Стек 
-Python, SQL, PostgreSQL, PyTest, Django Framework, Asyncio, Flask, Docker, Docker-compose, Celery.
+Python, SQL, PostgreSQL, PyTest, Django Framework, Asyncio, Aiohttp, Flask, Docker, Docker-compose, Celery.
 
 
 ### Реализованные проекты
